@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.09769beb.css",
-    "main.js": "/static/js/main.c35fadee.js",
-    "index.html": "/index.html",
-    "main.09769beb.css.map": "/static/css/main.09769beb.css.map",
-    "main.c35fadee.js.map": "/static/js/main.c35fadee.js.map"
+    "main.css": "/oscar292/applicativo-web/static/css/main.09769beb.css",
+    "main.js": "/oscar292/applicativo-web/static/js/main.c35fadee.js",
+    "index.html": "/oscar292/applicativo-web/index.html",
+    "main.09769beb.css.map": "/oscar292/applicativo-web/static/css/main.09769beb.css.map",
+    "main.c35fadee.js.map": "/oscar292/applicativo-web/static/js/main.c35fadee.js.map"
   },
   "entrypoints": [
     "static/css/main.09769beb.css",
